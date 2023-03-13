@@ -1,5 +1,6 @@
 # Trabalho-boletim
-Este projeto tinha como objetivo de criar um boletim epidemólogico do COVID-19 em HTML/CSS (Dados ilustrativos)
+Este projeto tinha como objetivo de criar um boletim epidemólogico do COVID-19, para praticar HTML/CSS
+(Dados ilustrativos)
 
 ```
 
